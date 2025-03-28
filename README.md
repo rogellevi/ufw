@@ -1,6 +1,9 @@
 ## ABRIR PUERTOS OC
 
-Ingresar Como ROOT : sudo su
+Ingresar Como ROOT : 
+```
+sudo su
+```
 
 Puertos:
 ```
