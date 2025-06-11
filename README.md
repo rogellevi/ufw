@@ -1,4 +1,15 @@
-## ABRIR PUERTOS OC
+## ABRIR PUERTOS AUTOMATICAMENTE
+
+sudo ./abrir_puertos.sh
+
+
+
+
+
+
+
+
+## ABRIR PUERTOS MANUALMENTE
 
 Ingresar Como ROOT : 
 ```
