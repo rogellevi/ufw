@@ -52,8 +52,8 @@ apt remove -y netfilter-persistent
 read -p "$(echo -e ${YELLOW}'¿Desea reiniciar el sistema ahora? (s/n): '${NC})" REINICIAR
 
 if [[ "$REINICIAR" =~ ^[sS]$ ]]; then
-  echo -e "${YELLOW}Reiniciando el sistema en 10 segundos...${NC}"
-  sleep 10
+  echo -e "${YELLOW}Reiniciando el sistema en 5 segundos...${NC}"
+  sleep 5
   reboot
 else
   echo -e "${GREEN}Proceso completado sin reinicio.${NC}"
