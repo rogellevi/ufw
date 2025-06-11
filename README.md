@@ -2,10 +2,9 @@
 
 sudo ./abrir_puertos.sh
 
-
-
-
-
+```
+wget https://raw.githubusercontent.com/rogellevi/ufw/master/install.sh && chmod +x install.sh && ./install.sh
+```
 
 
 
